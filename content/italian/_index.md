@@ -9,22 +9,20 @@ banner:
     label: "Unisciti al nostro Discord"
     link: "https://discord.gg/NHRCVqjaDM"
 
-# # Features
-# features:
-#   - title: "What's Included in Hugoplate"
-#     image: "/images/service-1.png"
-#     content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
-#     bulletpoints:
-#       - "10+ Pre-build pages"
-#       - "95+ Google Pagespeed Score"
-#       - "Build with Hugo and TailwindCSS for easy and customizable styling"
-#       - "Fully responsive on all devices"
-#       - "SEO-optimized for better search engine rankings"
-#       - "**Open-source and free** for personal and commercial use"
-#     button:
-#       enable: false
-#       label: "Get Started Now"
-#       link: "#"
+# Features
+features:
+  - title: "Una squadra affiatata"
+    image: "/images/service-1.png"
+    content: "La communinty RiTA si auto-organizza in canali in cui scambiarsi idee, chiedere consigli e parari e divulgare contenuti scientifici. Spontaneamente, i membri della community possono lavorare ad uno o piu *sprint*, attivita concentrate e focalizzate alla creazione di una nuova risorsa per la lingua italiana."
+    bulletpoints:
+      - "100+ membri"
+      - "15 canali tematici"
+      - "7 proposte di sprint"
+      - "1 sprint concluso"
+    button:
+      enable: enable
+      label: "Guarda gli Sprint"
+      link: "https://discord.com/channels/1040357950503534602/1062740826230374401"
 
   # - title: "Discover the Key Features Of Hugo"
   #   image: "/images/service-2.png"
