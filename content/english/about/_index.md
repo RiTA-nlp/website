@@ -3,7 +3,7 @@
 #meta_title: "About"
 #description: "this is meta description"
 #image: "/images/avatar.png"
-draft: false
+draft: true
 ---
 
 ## 👋 Ciao, benvenuta/o su RiTA!
