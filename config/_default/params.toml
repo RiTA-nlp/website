@@ -1,9 +1,11 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.png"
+favicon = "images/favicon-32x32.png"
+
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = ""
-logo_darkmode = "images/logo-darkmode.png"
+logo_darkmode = ""
+
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -12,6 +14,7 @@ logo_height = "32px"
 logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Risorse per la Lingua Italiana"
+
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode

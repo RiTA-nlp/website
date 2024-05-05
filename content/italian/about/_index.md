@@ -2,8 +2,8 @@
 title: "👋 Ciao, benvenuta/o su RiTA!"
 #meta_title: "About"
 #description: "this is meta description"
-# image: "/images/avatar.png"
-draft: true
+image: "/images/logo.png"
+draft: false
 ---
 
 
@@ -58,4 +58,4 @@ Q: Ma non ci avete detto chi siete. Chi siete? \
 A: Due ricercatori italiani, [Giuseppe](https://gattanasio.cc/) e [Moreno](https://www.mlaquatra.me/).
 
 
-### Ok, ora è davvero il caso di navigare sulla nostra [🏠 home](https://github.com/RiTA-nlp/home
+### Ok, ora è davvero il caso di navigare sulla nostra [🏠 home](https://github.com/RiTA-nlp/home)

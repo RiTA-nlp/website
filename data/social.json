@@ -1,14 +1,19 @@
 {
   "main": [
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
+      "name": "X",
+      "icon": "fab fa-x-twitter",
       "link": "https://twitter.com/RiTA_community"
     },
     {
       "name": "github",
       "icon": "fab fa-github",
       "link": "https://github.com/RiTA-nlp/"
+    },
+    {
+      "name": "huggingface",
+      "icon": "fab fa-globe",
+      "link": "https://huggingface.co/RiTA-nlp"
     }
   ]
 }

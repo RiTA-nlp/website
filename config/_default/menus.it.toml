@@ -1,0 +1,30 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Chi siamo"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+name = "Sprint"
+pageRef = "/sprints"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 3
