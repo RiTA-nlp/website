@@ -12,7 +12,7 @@
     },
     {
       "name": "huggingface",
-      "icon": "fab fa-globe",
+      "icon": "fa fa-globe",
       "link": "https://huggingface.co/RiTA-nlp"
     }
   ]

@@ -3,7 +3,7 @@
 banner:
   title: "La community Italiana per la creazione e il rilascio di Risorse per tutte e tutti."
   content: "Un posto in cui chi si appassiona alla linguistica computazionale trova casa."
-  image: "/images/banner.png"
+  image: "/images/home_banner.png"
   button:
     enable: true
     label: "Unisciti al nostro Discord"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Una squadra affiatata"
-    image: "/images/service-1.png"
+    image: "/images/logo_transparent.png"
     content: "La communinty RiTA si auto-organizza in canali in cui scambiarsi idee, chiedere consigli e parari e divulgare contenuti scientifici. Spontaneamente, i membri della community possono lavorare ad uno o piu *sprint*, attivita concentrate e focalizzate alla creazione di una nuova risorsa per la lingua italiana."
     bulletpoints:
       - "100+ membri"

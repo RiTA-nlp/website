@@ -2,7 +2,7 @@
 title: "👋 Ciao, benvenuta/o su RiTA!"
 #meta_title: "About"
 #description: "this is meta description"
-image: "/images/logo.png"
+image: "/images/logo_transparent.png"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ RiTA è aperta a chiunque sia interessata/o ai temi NLP in generale, da chi stud
 
 ### 🎯 Ok, dove firmo?
 
-Fortunatamente, da nessuna parte. Hai solo bisogno di unirti alla nostra community di Discord ([Unisciti](https://discord.gg/NHRCVqjaDM)) e iniziare a curiosare lì 🙂
+Fortunatamente, da nessuna parte. Hai solo bisogno di unirti alla nostra community di Discord [(Unisciti)](https://discord.gg/NHRCVqjaDM) e iniziare a curiosare lì 🙂
 
 ### Cosa intendete per Risorse?
 
@@ -58,4 +58,4 @@ Q: Ma non ci avete detto chi siete. Chi siete? \
 A: Due ricercatori italiani, [Giuseppe](https://gattanasio.cc/) e [Moreno](https://www.mlaquatra.me/).
 
 
-### Ok, ora è davvero il caso di navigare sulla nostra [🏠 home](https://github.com/RiTA-nlp/home)
+### Ok, ora è davvero il caso di navigare sulla nostra [🏠 home](https://github.com/RiTA-nlp/home).
