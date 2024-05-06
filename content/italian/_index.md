@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Una squadra affiatata"
     image: "/images/logo_transparent.png"
-    content: "La communinty RiTA si auto-organizza in canali in cui scambiarsi idee, chiedere consigli e parari e divulgare contenuti scientifici. Spontaneamente, i membri della community possono lavorare ad uno o piu *sprint*, attivita concentrate e focalizzate alla creazione di una nuova risorsa per la lingua italiana."
+    content: "La communinty RiTA si auto-organizza in canali in cui scambiarsi idee, chiedere consigli e pareri o divulgare contenuti scientifici. Spontaneamente, i membri della community possono lavorare ad uno o piu *sprint*, attività concentrate e focalizzate alla creazione di una nuova risorsa per la lingua italiana."
     bulletpoints:
       - "100+ membri"
       - "15 canali tematici"
