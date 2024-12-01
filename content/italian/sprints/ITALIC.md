@@ -6,7 +6,7 @@ date: 2022-04-04T05:00:00Z
 image: "/images/sprints/ITALIC.png"
 categories: ["Dataset"]
 author: "Giuseppe Attanasio"
-tags: ["intent detection"]
+tags: ["speech recognition", "intent detection"]
 draft: false
 ---
 
@@ -15,6 +15,7 @@ Le risorse in lingua italiana per l'elaborazione del linguaggio naturale, sia in
 
 Il dataset si compone di più di 16000 registrazioni audio e copre una varietà di annotatori provenienti da diverse regioni italiane. 
 Lo sprint ha avuto un duplice obiettivo: creare un dataset unico nel suo genere e la pubblicazione di un articolo scientifico (che troverete qui di seguito) per condividere i risultati con la comunità scientifica.
+Si ringraziano: *Alkis Koudounas, Moreno La Quatra, Lorenzo Vaiani, Luca Colomba, Giuseppe Attanasio, Eliana Pastor, Luca Cagliero e Elena Baralis*. 
 
 <img src="/images/sprints/ITALIC.png" alt="ITALIC" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 

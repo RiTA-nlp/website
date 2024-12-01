@@ -15,10 +15,10 @@ features:
     image: "/images/logo_transparent.png"
     content: "La communinty RiTA si auto-organizza in canali in cui scambiarsi idee, chiedere consigli e pareri o divulgare contenuti scientifici. Spontaneamente, i membri della community possono lavorare ad uno o piu *sprint*, attività concentrate e focalizzate alla creazione di una nuova risorsa per la lingua italiana."
     bulletpoints:
-      - "100+ membri"
+      - "150+ membri"
       - "15 canali tematici"
       - "7 proposte di sprint"
-      - "1 sprint concluso"
+      - "2 sprint conclusi"
     button:
       enable: enable
       label: "Guarda gli Sprint"

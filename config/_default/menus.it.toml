@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# Italian navigation ##############
 
 # main menu
 [[main]]
@@ -15,7 +15,6 @@ weight = 2
 name = "Sprint"
 pageRef = "/sprints"
 weight = 3
-
 
 # footer menu
 [[footer]]
