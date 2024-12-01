@@ -1,4 +1,4 @@
-#################### default parameters ################################
+#################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon-32x32.png"
 
@@ -68,6 +68,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Boilerplate", "Hugo"]
 description = "Hugo & Tailwindcss Starter"
 author = "zeon.studio"
+twitter = "zeon_studio"
 image = "images/og-image.png"
 
 
@@ -87,6 +88,10 @@ enable = false
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
+
+# diagrams
+[mermaid]
+js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
 
 ######################## sidebar widgets #########################
 [widgets]

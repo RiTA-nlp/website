@@ -42,6 +42,13 @@ shortname = 'themefisher-template' # we use disqus to show comments in blog post
 "pages" = "/:slugorfilename/"
 
 
+########################## Pagination ############################
+[pagination]
+disableAliases = false
+pagerSize = 10
+path = 'page'
+
+
 ############################# Modules ############################
 [module]
 [[module.mounts]]
