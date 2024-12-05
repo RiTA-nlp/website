@@ -1,11 +1,12 @@
 ---
-title: "👋 Ciao, benvenuta/o su RiTA!"
+title: "👋 Ciao, benvenut* su RiTA!"
 #meta_title: "About"
 #description: "this is meta description"
 image: "/images/logo_transparent.png"
 draft: false
 ---
 
+{{< gallery dir="images/group_photos" class="" height="300" width="300" webp="true" command="Fit" option="" zoomable="true" >}}
 
 La community Risorse per la Lingua Italiana (RiTA) nasce con lo scopo di avvicinare appassionate/i e professioniste/i della linguistica computazionale italiana e di creare nuove collaborazioni per la costruzione di risorse per la nostra meravigliosa lingua. 
 
