@@ -12,7 +12,7 @@ draft: false
 
 {{< button label="GitHub" link="https://github.com/RiTA-nlp/ita-eval" style="solid" >}}
 {{< button label="Leaderboard" link="https://huggingface.co/spaces/RiTA-nlp/ita-eval" style="solid" >}}
-{{< button label="Paper" link="https://clic2024.ilc.cnr.it/wp-content/uploads/2024/11/6_main_long.pdf" style="solid" >}}
+{{< button label="Paper" link="https://aclanthology.org/2024.clicit-1.6/" style="solid" >}}
 
 Nel panorama in rapida evoluzione dell'intelligenza artificiale e dell'elaborazione del linguaggio naturale, la community RiTA ha compiuto un passo significativo con lo sviluppo di due risorse innovative: **TweetyIta**, un modello linguistico efficiente, e **ItaEval**, un benchmark comprehensivo per la valutazione dei modelli linguistici italiani.
 
